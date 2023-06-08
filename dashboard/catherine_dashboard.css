@@ -1,0 +1,50 @@
+body {
+	background: white;
+	box-sizing: border-box;
+	color: black;
+	font-size: 20px;
+	letter-spacing: 2px;
+	text-align: center;
+	font-family: Century Gothic;
+}
+h1{
+	color: #009dff;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+
+}
+th{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	background: white;
+	color: white;
+	padding: 2px 6px;
+	border-collapse: separate;
+	border: 1px solid black;
+}
+tr th{
+	outline: none;
+	border: none;
+	background: #26abff;
+	border-radius: 20px;
+	text-decoration: none;
+}
+.back{
+	display: flex;
+	margin-left: 20px;
+	margin-top: 20px;
+	text-decoration: none;
+	background: #009dff;
+	outline: none;
+	border: none;
+	padding: 10px 10px;
+	color: white;
+	border-radius: 20px;
+}
+.back a{
+	text-decoration: none;
+	color: white;
+}

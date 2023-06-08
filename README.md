@@ -13,3 +13,4 @@ Folders:
 /arduino - arduino sketch file to configure the recede devices
 /dashboard - for the administrator to monitor the contact tracing
 /database - php file for posting data
+/doc - thesis manuscript and manual

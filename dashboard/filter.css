@@ -1,0 +1,41 @@
+*{
+    font-family: Century Gothic;
+}
+
+.btnsearch{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    outline: none;
+    border: none;
+    padding: 8px 15px 8px 15px;
+    background: #59bfff;
+    color: white;
+    float: right;
+    margin-right: -250px;
+}
+input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    outline: none;
+    border: none;
+    padding: 8px 15px 8px 15px;
+    background: #59bfff;
+    float: right;
+    margin-right: 300px;
+
+}
+
+::placeholder{
+    color: white;
+    font-size: 12px;
+    opacity: 80%;
+    padding: 10px;
+    
+}

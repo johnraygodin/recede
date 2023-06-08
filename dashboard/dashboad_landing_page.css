@@ -1,0 +1,63 @@
+*{
+    font-family: Century Gothic;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    color: #0da2ff;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table{
+    width: 50%;
+    margin-left: 250px;
+}
+/* .header{
+    width: 100%;
+} */
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    outline: none;
+    border: none;
+    padding: 8px 15px 8px 15px;
+    background: #59bfff;
+    float: right;
+    margin-right: 100px;
+
+}
+::placeholder{
+    color: white;
+    font-size: 12px;
+    opacity: 80%;
+    padding: 10px;
+    
+}
+tr{
+    text-align:center;
+}
+th{
+    background: #59bfff;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 100px 5px 100px;
+    
+}
+a{
+    font-size: 22px;
+}
+.hovers{
+	text-decoration: none;
+	color: black;
+}
+.hovers:hover{
+	color: #009dff;
+	border-radius: 20px;
+}

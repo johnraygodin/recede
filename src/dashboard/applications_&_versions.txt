@@ -1,5 +1,7 @@
 The software IDE used to code the dashboard was Sublime Text
 
+The Sublime Text application build version used was 4143
+
 The PHP version used was 8.1.4
 
 The webserver application used to access the database server was XAMPP

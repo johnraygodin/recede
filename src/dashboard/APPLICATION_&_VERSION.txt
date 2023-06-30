@@ -1,0 +1,3 @@
+The software IDE used to code the dashboard was Sublime Text
+
+The Sublime Text application build version used was 4143

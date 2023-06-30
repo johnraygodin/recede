@@ -1,0 +1,5 @@
+The webserver application used to access the database server was XAMPP
+
+The XAMPP Application version used was 3.3.0
+
+The PHP version used was 8.1.4
